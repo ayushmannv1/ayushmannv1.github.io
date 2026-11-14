@@ -104,16 +104,6 @@
       ]
     },
     {
-      "name": "Motin graphic & Editing ",
-      "items": [
-        {
-          "label": "Video Edting & Motion Graphic ",
-          "note": "Creating engaging videos with motion graphics, transitions, and AI-powered editing tools.",
-          "url": "https://drive.google.com/drive/folders/1xm050eyQ434ArzRCAdIrBkhCn9ueuGyj"
-        }
-      ]
-    },
-    {
       "name": "Data Analyst",
       "items": [
         {
@@ -125,6 +115,16 @@
           "label": "Internship ",
           "url": "https://drive.google.com/file/d/1UBe7CWMxpEDsgv5Kg7BzGln7s1W4mbsw/view?usp=drivesdk",
           "note": "Gaining practical experience and developing professional skills through real-world projects."
+        }
+      ]
+    },
+    {
+      "name": "Motin graphic & Editing ",
+      "items": [
+        {
+          "label": "Video Edting & Motion Graphic ",
+          "note": "Creating engaging videos with motion graphics, transitions, and AI-powered editing tools.",
+          "url": "https://drive.google.com/drive/folders/1xm050eyQ434ArzRCAdIrBkhCn9ueuGyj"
         }
       ]
     },
@@ -145,6 +145,12 @@
     "email": "ayushmanyou2@gmail.com",
     "links": [
       {
+        "platform": "",
+        "label": "Reddit ",
+        "url": "https://www.reddit.com/u/freakbobxe/s/yWU760h78q",
+        "hide": false
+      },
+      {
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/in/ayushman-v-028561348?utm_source=share_via&utm_content=profile&utm_medium=member_android"
       },
@@ -155,12 +161,6 @@
       {
         "label": "GitHub",
         "url": "https://github.com/ayushmannv1"
-      },
-      {
-        "platform": "",
-        "label": "Reddit ",
-        "url": "https://www.reddit.com/u/freakbobxe/s/yWU760h78q",
-        "hide": false
       }
     ]
   },
@@ -179,8 +179,8 @@
     "fx": true,
     "intro": true,
     "introFont": {
-      "family": "Playfair Display",
-      "size": 70,
+      "family": "Space Grotesk",
+      "size": 75,
       "weight": 300,
       "spacing": 0.06,
       "align": "center"
