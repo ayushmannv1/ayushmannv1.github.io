@@ -179,10 +179,10 @@
     "fx": true,
     "intro": true,
     "introFont": {
-      "family": "Space Grotesk",
+      "family": "Playfair Display",
       "size": 75,
       "weight": 300,
-      "spacing": 0.06,
+      "spacing": 0.1,
       "align": "center"
     }
   },
